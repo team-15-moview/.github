@@ -10,7 +10,8 @@
 나만의 인생 영화를 공유해봐요! <br>
 
 ## 👨‍👩‍👦‍👦 팀소개
-| 안용진 | 최정원 | 정명주 | 전선웅 |
+| FE | FE | BE | BE |
 | :-: | :-: | :-: | :-: |
+| 안용진 | 최정원 | 정명주 | 전선웅 |
 | <img width="160px" src="https://avatars.githubusercontent.com/u/98572756?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/77850103?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/62596783?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/114351464?v=4" /> |
 | [@Brain-organizer](https://github.com/Brain-organizer) | [@jwc406](https://github.com/jwc406) | [@thing-zoo](https://github.com/thing-zoo) | [@bbororo5](https://github.com/bbororo5) |
